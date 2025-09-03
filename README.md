@@ -23,28 +23,7 @@ A **full-stack freelance marketplace** where:
 
 ---
 
-## 📂 Project Structure  
 
-freelance-app/
-│── backend/
-│ ├── models/ # Mongoose schemas (User, Project, Proposal)
-│ ├── routes/ # Express routes (auth, users, projects, proposals)
-│ ├── middleware/ # Auth middleware
-│ ├── server.js # Express app entry
-│ └── .env # Environment variables
-│
-│── frontend/
-│ ├── app/ # Next.js pages (login, register, dashboard, etc.)
-│ ├── store/ # Zustand store
-│ ├── utils/ # API helper functions
-│ ├── styles/ # Tailwind setup
-│ └── package.json
-│
-├── README.md
-└── .gitignore
-
-yaml
-Copy code
 
 ---
 
